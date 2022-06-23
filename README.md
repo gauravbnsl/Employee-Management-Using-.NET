@@ -1,4 +1,4 @@
-# SpringREST
+# Employee Management CRM Using C# .NET
 
 This is an Employee Management Application built using Spring MVC,Hibernate, MySQL using the REST Principles and deployed on Apache Tomcat 9.0.
 
